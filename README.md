@@ -1,1 +1,1 @@
-# Example Package
+# Python Wrapper for OpenIE5
