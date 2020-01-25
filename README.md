@@ -7,7 +7,7 @@ pip install pyopenie
 ```
 
 # Usage
-First make sure you have the OpenIE5 server running.  See [the instructions here]() for how to do that.
+First make sure you have the OpenIE5 server running.  See [the instructions here](https://github.com/dair-iitd/OpenIE-standalone#running-as-http-server) for how to do that.
 
 Then the setup just requires you to pass in the url of the server:
 ```
