@@ -78,3 +78,11 @@ The result is a JSON list of extractions with confidence, offset and other prope
     }
 ]
 ```
+Individual properties can also be accessed.
+```
+>>> extractions[0]['confidence']
+0.38089450366724514
+
+>>> extractions[0]['extraction']['arg1']['text']
+'Barack Obama'
+```
